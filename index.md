@@ -6,4 +6,6 @@ Sully ist der typische Verlierer. Gesundheitlich nicht mehr ganz auf der Höhe, 
 * hartnäckig
 * unpretentiös
 * menschlich
-* charmant 
+* charmant
+
+> Auf Dauer bin ich unwiderstehlich 
