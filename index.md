@@ -10,4 +10,4 @@ Sully ist der typische Verlierer. Gesundheitlich nicht mehr ganz auf der Höhe, 
 
 > Auf Dauer bin ich unwiderstehlich
 
-<img src="https://upload.wikimedia.org/wikipedia/en/3/39/Nobodysfool.jpg" /> 
+<!-- <img src="https://upload.wikimedia.org/wikipedia/en/3/39/Nobodysfool.jpg" /> -->
